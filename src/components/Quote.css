@@ -1,0 +1,11 @@
+
+
+.quote-text-box {
+    width:70%;    
+    position:relative;    
+}
+.quote-quote-box {
+    position: absolute;
+    top:-30px;
+    left:-30px;   
+}

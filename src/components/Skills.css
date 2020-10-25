@@ -1,0 +1,70 @@
+@font-face {
+  font-family: Calluna;
+  src: url('../fonts/Calluna\ Black.otf');
+}
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+
+.containerSkills_main {
+  width: 100%;  
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+}
+
+
+
+.containerSkills{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;  
+}
+
+.boxLink{
+  width: 7%;
+  height:100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  justify-content: center;
+  color:#2d299c;
+}
+
+.boxSkill{
+  cwidth:86%;
+  width:100%;
+  height:100%;
+  display: flex;
+  flex-direction: row;
+  xjustify-content: center;
+  xalign-items: center;  
+  margin-left: 2px;
+  background-color: #7060ee;
+}
+
+.boxSkill_number_box{
+  width:30%; 
+  height:100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; 
+  align-items: center;     
+}
+
+
+.boxSkill_text_box{
+  width:70%; 
+  padding-top:30px;
+  padding-bottom:30px;
+  padding-left:35px;
+  padding-right:10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: flex-start;    
+  }
+
+
+

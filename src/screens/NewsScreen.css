@@ -1,0 +1,39 @@
+
+@font-face {
+  font-family: Calluna;
+  src: url('../fonts/Calluna\ Black.otf');
+}
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+
+
+
+.news_table {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; 
+  padding-left: 7%;
+  padding-right: 7%;
+  margin-top: 40px
+}
+
+.news_column {
+  background-color: #f9f9f9;
+  width:32%;
+  padding: 2%;
+  margin: .5%;
+  height: auto;
+  display: flex;
+  flex-direction: column;  
+}
+
+.news_column_hover {
+
+  background-color: #f9f9f9;
+  transition: background-color 500ms ease-out;
+}
+
+.news_column_hover:hover {
+  background-color: rgba(47, 40, 100, .3) ; 
+  
+}

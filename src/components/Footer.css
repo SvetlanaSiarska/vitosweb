@@ -1,0 +1,51 @@
+
+@font-face {
+  font-family: Calluna;
+  src: url('../fonts/Calluna\ Black.otf');
+}
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+
+.footer_info { 
+  margin:  0px 0px;
+  width: 100%;  
+  background-color:#f2f2f2;;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 3% 5%;   
+}
+
+.footer_info_mobile { 
+  margin:  0px 0px;
+  width: 100%;  
+  background-color:#f2f2f2;;
+  
+}
+.footer_info_column {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer_info_row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+
+
+
+.footer { 
+  padding: 1% 5%;   
+  width: 100%;  
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+     
+}
+
+
+

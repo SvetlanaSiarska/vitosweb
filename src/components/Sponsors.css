@@ -1,0 +1,42 @@
+.containerSponsors{
+  display: flex;
+  
+  margin-top:50px;
+  margin-left:50px;
+  margin-right:50px;
+  
+}
+
+.boxSponsor{
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+  justify-content: center;
+}
+.sponsorLine{
+  width: 90%;
+  margin-top:20px;
+  height: 1px;
+
+  background: #7866ff;
+  margin: 0 auto;   
+}
+
+/*
+ animation: 0.5s shrink forwards;
+  animation-delay:10;
+  transition: height 1s;
+*/
+
+.sponsorLine:hover {
+  height: 2px;
+}
+
+.sponsorLogo {
+  height: 100px;
+  margin-top:10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+

@@ -1,0 +1,31 @@
+
+.principles-container {
+    position:relative;
+    width:80%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+  }
+
+  .principles-text-box {   
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: flex-start;  
+    align-content: flex-start;
+  }
+
+  .principles-nummer-box {
+    width:50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;      
+  }
+  
+.principles-numbers2{  
+    font-weight: normal;  
+}

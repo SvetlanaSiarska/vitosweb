@@ -1,0 +1,856 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+
+.TitleGrandeHERO {
+    font-size: 50px; 
+    padding:0px;
+    margin: 0px;
+    font-family: Calluna;          
+    font-weight: 900;    
+    font-stretch: normal;    
+    font-style: normal;    
+    line-height: normal;    
+    letter-spacing: normal;    
+    color:#ffffff;
+} 
+
+.SubTitleGrandeHERO {
+    font-size: 16px;  
+    font-family: Lato;  
+    font-weight: normal;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 1.13;  
+    letter-spacing: normal;  
+    color: #ffffff;   
+} 
+.ScrollDownText , .ScrollDownText:hover{
+    font-size: 16px;  
+    font-family: Lato;    
+    font-weight: 900;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 1.13;  
+    letter-spacing: normal;  
+    color: #ffffff;
+}
+.infoHeaderTitle {
+    font-family: Lato;  
+    font-size: 12px;  
+    font-weight: 900;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 1.25;  
+    letter-spacing: 1px;  
+    text-align: left;
+    color: #ffffff;
+    text-transform: uppercase;
+  }
+  .infoHeaderTime {
+    font-family: Lato;  
+    font-size: 10px;  
+    font-weight: bold;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 1.5;  
+    letter-spacing: normal;  
+    text-align: right;  
+    color: #ffffff;
+  }
+  .collapse { 
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: right;
+    color: #ffffff;
+    text-decoration: underline;
+  }
+  
+.paragraph-text {    
+    font-family: Lato;
+    font-size: 18px;  
+    font-weight: normal;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 1.56;  
+    letter-spacing: normal;  
+    text-align: center;  
+    color: #1b1e18;    
+}
+.paragraph-title {
+    font-family: Calluna;
+    font-size: 35px;  
+    font-weight: 900;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: normal;  
+    letter-spacing: normal;  
+    text-align: center;  
+    color: #1b1e18;
+}
+
+.container_title_1 {
+    font-family: Lato;
+     font-size: 16px;
+     font-weight: 900;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 2.13;
+     letter-spacing: 2.29px;
+     color: #7866ff;
+     text-transform: uppercase; 
+ }
+
+ .container_title_2 {
+     font-family: Lato;
+     font-size: 28px;
+     font-weight: 300;
+     font-stretch: normal;  
+     font-style: normal;
+     line-height: 1.43;
+     letter-spacing: normal;
+     color: #1b1e17;    
+ }
+   
+  .container_title_4 {
+     font-family: Calluna;
+     font-size: 35px;  
+     font-weight: 900;  
+     font-stretch: normal;  
+     font-style: normal;  
+     line-height: normal;  
+     letter-spacing: normal;  
+     color: #1b1e18;  
+  }
+
+  .container_text {
+     font-family: Lato;
+     font-size: 16px;  
+     font-weight: normal;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 1.63;
+     letter-spacing: normal;
+     color: #1b1e18; 
+ }
+ 
+ .roundedButton_text { 
+    font-family: Lato;  
+    font-size: 16px;  
+    font-weight: 900;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 2;  
+    letter-spacing: 2px;  
+    text-align: center;  
+    color: #3f379d;
+    text-transform: uppercase;
+  }
+  
+  .roundedButton_text:hover { 
+    font-family: Lato;  
+    font-size: 16px;  
+    font-weight: 900;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 2;  
+    letter-spacing: 2px;  
+    text-align: center;  
+    color:white;
+    text-transform: uppercase;
+  }
+
+  .quoteText {
+    font-family: Calluna;
+    font-size: 40px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #7c6bfd;
+  }
+
+  .infoWeather1{
+    margin-top:15px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.7;
+    letter-spacing: normal;
+    color: #252525;
+  }
+  .infoWeather2{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal; 
+    color: #252525;
+  }
+  .infoWeather3{
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 2;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  
+  .infoLocation1 {
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  
+  .infoLocation2 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #2d299c;
+  }
+
+  .boxTitle {
+    font-family: Calluna;
+     font-size: 35px;  
+     font-weight: 900;  
+     font-stretch: normal;  
+     font-style: normal;  
+     line-height: normal;  
+     letter-spacing: normal;  
+     color: #ffffff;
+ }
+ .boxText {  
+   font-family: Lato;
+   font-size: 16px;  
+   font-weight: normal;  
+   font-stretch: normal;  
+   font-style: normal;  
+   line-height: 1.63;  
+   letter-spacing: normal;  
+   text-align: center; 
+   color: #ffffff;     
+ }
+ .boxFooter {
+    font-family: Lato;  
+    font-size: 14px;  
+    font-weight: normal;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 1.29;  
+    letter-spacing: normal;  
+    text-align: center;  
+    color: #ffffff;
+    padding-top: 60px;   
+    padding-bottom: 35px;
+  }
+  .boxButtonText {  
+    font-family: Lato;  
+    font-size: 16px;  
+    font-weight: 900;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 2;  
+    letter-spacing: 2px;  
+    text-align: center;  
+    color: #ffffff;
+    text-transform: uppercase;   
+  }
+
+  .boxButtonText:hover {  
+    font-family: Lato;  
+    font-size: 16px;  
+    font-weight: 900;  
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: 2;  
+    letter-spacing: 2px;  
+    text-align: center;  
+    color: #1c1a66;
+    text-transform: uppercase;   
+  }
+
+  .programDetail_title_1 {
+    font-family: Calluna;
+    font-size: 50px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #252090;
+  }
+  
+  .programDetail_title_2 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: 2.29px;
+    color: #7866ff;
+  }
+  
+  /*
+  .programDetail_title_text {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    color: #1b1e18;
+  }
+  */
+  
+  .programDetail_link1 {  
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.17;
+    letter-spacing: normal;
+    color: #7866ff;
+  }
+  .programDetail_title_3 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.13;
+    letter-spacing: 2.29px;
+    color: #7866ff;
+  }
+
+  .news-detail-text1 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.63;
+    letter-spacing: normal;
+    color: #1b1e18;
+  }
+  .news-detail-text2 {
+    font-family: Lato;
+    font-size: 28px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #1b1e17;
+  }
+  
+  .news-detail-text3 {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    color: #1b1e18;
+  }
+
+  .boxCourse_row1_text {
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.47;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  
+  
+  .boxCourse_row2_text {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  .boxCourse_row3_text {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+
+  .footer_info_title {
+    font-family: Calluna;
+    font-size: 21px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.62;
+    letter-spacing: normal;
+    color: #1b1e17;
+    margin:5px 0px;
+  }
+  
+  .footer_info_font1 {
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  
+  .footer_info_font2 {
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.29;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  .footer_info_font2:hover{  
+    color: #2d299c;
+  }
+  
+  .footer_info_font3{
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.29;
+    letter-spacing: normal;
+    color: #2d299c;
+  }
+  .footer_info_font3:hover{  
+    color: #2d299c;
+  }
+  .footer_text {
+    opacity: 0.44;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: 0.5px;
+    color: #000000;
+  }
+
+  .news_column_1_1_text {
+    font-family: Calluna;
+    font-size: 21px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.62;
+    letter-spacing: normal;
+    color: #1b1e17;
+    text-decoration: underline;
+  }
+  
+  .news_column_1_2_text {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.13;
+    letter-spacing: 2.29px;
+    color: #7866ff;
+    text-transform: uppercase,
+  }
+
+  .news_column_1_4_text {
+    font-family: Lato;
+    font-size: 28px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #1b1e17;
+  }
+  
+  .news_column_1_5_text {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    color: #8e8e8e;
+  
+  }
+
+  .news_column_date {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    text-transform: uppercase;
+    line-height: 2.13;
+    letter-spacing: 2.29px;
+  }
+  
+  .news_column_3_title {
+    font-family: Calluna;
+    font-size: 21px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    color: #1b1e18;
+  }
+  
+  .news_column_3_1_description {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.63;
+    letter-spacing: normal;
+    color: #8e8e8e;
+  }
+
+  .footerIcon {
+    padding: 0px 5px;
+    color: #2d299c;
+    font-size:20px
+  }
+
+  .material-icons {
+    z-index: 2;
+    color:white;
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    color:white;
+  
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+  
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+  
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+  }
+
+  .news_button_text {   
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 2px;
+    color: #ffffff;   
+  }
+ 
+  .news_button_text:hover {   
+   font-family: Lato;
+   font-size: 16px;
+   font-weight: 900;
+   font-stretch: normal;
+   font-style: normal;
+   line-height: 2;
+   letter-spacing: 2px;
+   color: #3f379d;   
+ }
+
+
+.galleryTitle {  
+  margin:0px 50px; 
+  font-family: Lato;
+  font-size: 28px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #1b1e17;
+  }
+
+ .supertitlesPrograms{
+  text-transform:uppercase;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.13;
+  letter-spacing: 2.29px;
+  text-align: left;
+  color: #7866ff;
+}
+
+.titlesPrograms{
+  font-family: Calluna;
+  font-size: 35px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1b1e18;
+}
+
+.principles_row1_text {
+  font-family: Lato;
+  font-size: 16px;  
+  font-weight: 900;  
+  font-stretch: normal;  
+  font-style: normal;  
+  line-height: 2.13;  
+  letter-spacing: 2.29px;  
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.principles_row2_text {
+  font-family: Lato;
+  font-size: 32px;  
+  font-weight: normal;  
+  font-stretch: normal;  
+  font-style: italic;  
+  line-height: 1.5;  
+  letter-spacing: normal;  
+  color: #ffffff;
+}
+
+.principles-numbers {
+  font-family: Lato;  
+  font-size: 16px;  
+  font-weight: 900;  
+  font-stretch: normal;  
+  font-style: normal;  
+  line-height: 2;  
+  letter-spacing: 0.1px;  
+  text-align: center;  
+  color: #000000;
+}
+
+ /*****/
+
+ .trainerName {      
+  font-family: Lato;  
+  font-size: 16px;  
+  font-weight: 900;  
+  font-stretch: normal;  
+  font-style: normal;  
+  line-height: 1.13;  
+  letter-spacing: normal;  
+  color: #2d299c;
+  text-transform: uppercase;
+}
+/*
+.c2div{
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+.c4text {
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: 0.1px;
+  text-align: center;
+  color: #000000;
+}*/
+
+.boxSkill_text{
+  font-family: Lato;
+  font-size: 22px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.27;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+.containerSkills_title {
+  font-family: Calluna;
+  font-size: 35px;
+  font-weight: 900;
+  font-stretch: normal; 
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1b1e18;
+}
+
+.boxSkill_number{
+  padding-bottom: 20px;
+  opacity: 0.3;
+  font-family: Lato;
+  font-size: 70px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.4;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.quote-quote {  
+  font-family: Didot;
+  font-size: 50px;  
+  font-weight: bold;  
+  font-stretch: normal;  
+  font-style: normal;  
+  line-height: 1;  
+  letter-spacing: normal;  
+  color: #443ba8;
+}
+
+.quote-text {   
+  font-family: Calluna;
+  font-size: 40px;  
+  font-weight: bold;  
+  font-stretch: normal;  
+  font-style: normal;  
+  line-height: 1.25;  
+  letter-spacing: normal;  
+  color: #443ba8;
+  
+}
+
+.callunaLine {
+  font-family: Calluna;
+  font-size: 50px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #252090;
+}
+
+.news_column_text_1 {
+  font-family: Calluna;
+  font-size: 21px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.62;
+  letter-spacing: normal;
+  color: #1b1e17;
+}
+
+.news_column_text_2 {
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.13;
+  letter-spacing: 2.29px;
+  color: #7866ff;
+  text-transform: uppercase;
+}
+.news_column_text_4 {
+  font-family: Lato;
+  font-size: 28px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #1b1e17;
+}
+
+.news_column_text_5 {
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.63;
+  letter-spacing: normal;
+  color: #8e8e8e;
+}
+
+.closeText {
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.94;
+  letter-spacing: normal;
+  text-align: right;
+  color: #2d299c;
+}
+
+.gallery_links_static {
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: #2d299c;
+}

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+
+
+
+  
+
+  .programBoxes {
+    width:100%;
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;  
+    align-content: center;   
+  }
+
+  
+  .programBoxRow {
+    width:100%;
+    display: flex;
+    flex-direction: row;    
+    justify-content: space-between;
+  }
+
+  .programBox{
+    position:relative;
+    width:32%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+  }
+
+  
+  .bg-gradient {
+    background: linear-gradient(to bottom, #7866ff -24%, #2d299c 79%);
+  }
+  .bg-img-over {
+    position: absolute;
+  }
+  
+  .bg-img-over:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(to bottom, #7866ff -24%, #2d299c 79%);
+    opacity: .6; 
+  }
+
+
+ 
+  
+  
+  
+
+  
+  
+
+  
+
+  

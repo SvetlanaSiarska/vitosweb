@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group 13 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5B51B7" offset="0%"></stop>
+            <stop stop-color="#342D8D" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Finalization" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-13-Copy-2">
+            <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" filter="url(#filter-2)" cx="30.8196721" cy="30.8196721" r="30.8196721"></circle>
+            <path d="M35.0713769,27.5508998 L32.2234467,27.5508998 L32.2234467,26.29273 C32.2234467,25.7009609 32.6198082,25.5629255 32.8987292,25.5629255 L34.8925472,25.5629255 L34.8925472,22.9594056 L32.0039132,22.9508197 C29.3841912,22.9508197 28.8870712,24.8919016 28.8870712,26.1348809 L28.8870712,27.5508998 L26.8852459,27.5508998 L26.8852459,30.1927261 L28.8870712,30.1927261 L28.8870712,38.1182051 L32.2234467,38.1182051 L32.2234467,30.1927261 L34.7931232,30.1927261 L35.0713769,27.5508998 Z" id="Fill-256" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,77 @@
+@font-face {
+  font-family: Calluna;
+  src: url('../fonts/Calluna\ Black.otf');
+}
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+
+.containerRegistration {
+  display: flex;
+  flex-direction: column;  
+  width: 80%;
+  margin-left: 10%;
+  align-items: center;
+  justify-content: center;
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+
+$size_radius: 40px;
+
+.topHalfCircle
+ {
+  background: #1c1a66;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: $size_radius;
+  width: $size_radius * 2;
+  border-top-left-radius: $size_radius * 2;
+  border-top-right-radius: $size_radius * 2;
+}
+.topHalfCircleIcon {
+  padding-top:  $size_radius/2;
+  color:white;
+  width: 3*$size_radius/4;
+}
+
+
+
+
+.box {
+  background: #1c1a66; 
+  width: 100%; 
+  height: 100%;
+  background-image: linear-gradient(to bottom, #1d1a66 9%, #7866ff 172%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.boxTitleBox {
+  
+   padding-top: 70px;;
+}
+
+.boxTextBox {
+  padding-top: 35px;
+  padding-left: 25%;
+  padding-right: 25%;    
+}
+
+  .boxButton {  
+    width: 250px;
+    height: 70px;
+    border: 2px solid white;      
+  }
+  .boxButton:hover {  
+    width: 250px;
+    height: 70px;
+    background: white;
+    border: 0px solid white;      
+  }
+
+  
+
+  

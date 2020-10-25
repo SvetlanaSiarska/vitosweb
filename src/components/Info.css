@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+
+.info {
+  width: 344px;
+  margin-top:-44px;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;  
+  box-shadow: 0 0 50px 10px rgba(0, 0, 0, 0.04);   
+}
+
+.infoAdmin {
+  width: 344px;  
+  margin-top:-44px;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;  
+  box-shadow: 0 0 50px 10px rgba(0, 0, 0, 0.04);   
+}
+
+.infoHeader {
+  width: 100%;
+  height: 44px;  
+  padding: 0px 10px 0px 20px;
+  background-color: #7866ff;
+  display: flex;
+  flex-direction: row;   
+  align-items: center;
+}
+
+.iconBoxCollapse {
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;   
+  justify-content: center;
+  align-items: center;
+ 
+}
+.iconDown {
+  transform: rotate(180deg) ;
+}
+
+.collapseBox { 
+  flex:1;
+  cursor: pointer;
+}
+
+.infoHeaderTitleBox {
+  flex:2;
+}
+
+.infoHeaderTimeBox {
+  flex:1;
+}
+
+.infoButton{
+  background-color: #7866ff; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.infoContent {
+  margin:0px 25px;
+  display: flex;
+  flex-direction: column;    
+}
+
+
+.infoline{
+  width: 100%;
+  height: 2px;
+  border: solid 1px rgba(151, 151, 151, 0.19);
+}
+
+
+.infoLocation3 {
+  font-weight: 300;
+  color: black;
+  text-decoration: underline;
+}

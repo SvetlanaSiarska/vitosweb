@@ -1,0 +1,81 @@
+
+  @import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+  .flex-container-box{
+    display: flex;
+    flex-direction: column;   
+  }
+
+  .flex-container {
+    display: flex;
+    flex-direction: row-reverse;     
+    align-content: center;
+    align-items: center;  
+  }  
+
+  
+  .item {   
+    margin-left: 40px;
+    height: 19px;
+    font-family: Lato;
+    font-size: 16px;  
+    font-weight: 500; 
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: normal;  
+    letter-spacing: normal;     
+    text-decoration: none;  
+    color: #ffffff
+  }
+
+  .item:hover {   
+    color: #ffffff;
+    text-decoration: underline;  
+    font-weight: 500; 
+  }
+
+  .itemselected {  
+    margin-left: 40px; 
+    height: 19px;
+    font-family: Lato;
+    font-size: 16px;  
+    font-weight: 900; 
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: normal;  
+    letter-spacing: normal;     
+    text-decoration: underline;  
+    color: #ffffff
+  }
+  
+  .itemselected:hover{   
+    height: 19px;
+    font-family: Lato;
+    font-size: 16px;  
+    font-weight: 900; 
+    font-stretch: normal;  
+    font-style: normal;  
+    line-height: normal;  
+    letter-spacing: normal;     
+    text-decoration: underline;  
+    color: #ffffff
+  }
+  
+  .itemAdmin {      
+    margin-left: 65px;
+    height: 19px;
+    font-family: Lato;
+    font-size: 16px;  
+    font-weight: 500; 
+    font-stretch: normal;  
+    font-style: bold;  
+    line-height: normal;  
+    letter-spacing: normal;     
+    text-decoration: none;  
+    color: #17137c
+  }
+
+  .itemAdmin:hover {      
+    color: #17137c;
+    text-decoration: underline; 
+  }
